@@ -1,0 +1,31 @@
+{
+  "theme": "acessórios essenciais para saas & ferramentas",
+  "categories": [
+    {
+      "value": "acess-rios-essenciais-para-saas-ferramentas",
+      "label": "Acessórios essenciais para saas & ferramentas"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Acessórios essenciais para saas & ferramentas"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-acess-rios-essenciais-para-saas-ferramentas-1.jpg",
+      "label": "Acessórios essenciais para saas & ferramentas Premium"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-saas-ferramentas-2.jpg",
+      "label": "Acessórios essenciais para saas & ferramentas Custo-Benefício"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-saas-ferramentas-3.jpg",
+      "label": "Melhores Acessórios essenciais para saas & ferramentas"
+    }
+  ]
+}
